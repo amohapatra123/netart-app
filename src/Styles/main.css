@@ -15,7 +15,6 @@ body {
 }
 hr {
   background-color: red;
-  height: 50px;
 }
 .line {
   border-left: 3px solid red;
@@ -69,7 +68,6 @@ hr {
   }
   hr {
     background-color: red;
-    height: 50px;
     width: 100vw;
   }
   .line {
